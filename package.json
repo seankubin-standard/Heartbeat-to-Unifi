@@ -1,0 +1,8 @@
+{
+  "name": "heartbeat-to-unifi-tests",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  }
+}
